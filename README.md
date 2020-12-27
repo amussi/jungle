@@ -9,9 +9,13 @@
 - git 설치 및 연동
 - html5 복습 및 semantic tag
 
+<br>
+
 **class2** / 2020년 11월 26일
 
 - css 복습 및 정리
+
+<br>
 
 **class3** / 2020년 12월 3일
 
